@@ -1,0 +1,3 @@
+/mnt/hgfs/M1/Programmation 3D/TP4_Textures/prog-3d-2023/template/build/CMakeFiles/tp.dir
+/mnt/hgfs/M1/Programmation 3D/TP4_Textures/prog-3d-2023/template/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/M1/Programmation 3D/TP4_Textures/prog-3d-2023/template/build/CMakeFiles/rebuild_cache.dir
